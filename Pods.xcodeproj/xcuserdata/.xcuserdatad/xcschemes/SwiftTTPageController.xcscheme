@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9DD5C7D16E969FFF0DC84503C2425AE9"
+               BlueprintIdentifier = "6CB5AEE0B092429474386E5646C8E7BF"
                BlueprintName = "SwiftTTPageController"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "SwiftTTPageController.framework">
